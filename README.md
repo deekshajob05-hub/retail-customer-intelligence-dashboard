@@ -1,61 +1,217 @@
-# 🛍️ Retail Customer Intelligence Dashboard
+<p align="center">
+  <img src="images/banner.png" alt="Retail Customer Intelligence Dashboard Banner" width="100%">
+</p>
 
-> Revenue Drivers and Customer Segments
+<h1 align="center">🛍️ Retail Customer Intelligence Dashboard</h1>
 
-An end-to-end Data Analytics project that analyzes retail customer shopping behavior to uncover purchasing patterns, identify revenue drivers, and provide actionable business insights using **Python, SQL, and Power BI**.
+<p align="center">
+<b>Revenue Drivers and Customer Segments</b>
+</p>
 
----
+<p align="center">
 
-## 📌 Business Problem
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-A retail company wants to better understand customer purchasing behavior and identify the factors driving revenue. This project analyzes customer transactions to uncover business insights that can improve marketing strategies, customer retention, and inventory planning.
-
----
-
-## 🎯 Objectives
-
-- Analyze customer purchasing behavior.
-- Identify high-performing product categories.
-- Discover revenue-driving customer segments.
-- Measure the impact of subscriptions and discounts.
-- Build an interactive Power BI dashboard.
-- Generate actionable business recommendations.
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 📖 Project Overview
 
-- Python
-- Pandas
-- NumPy
-- SQL (MySQL/PostgreSQL)
-- Power BI
-- Git & GitHub
+This project presents an end-to-end data analytics solution for a retail company using **Python, SQL, and Power BI**.
+
+The objective is to analyze customer shopping behavior, identify revenue drivers, uncover customer segments, and transform raw retail transaction data into meaningful business insights that support data-driven decision-making.
 
 ---
 
-## 📂 Dataset
+# 🎯 Business Problem
+
+A retail company wants to better understand customer purchasing behavior across product categories, customer demographics, and shopping seasons.
+
+Without centralized analytics, marketing campaigns, inventory planning, and customer retention strategies rely on assumptions rather than data.
+
+This project develops an interactive dashboard that enables stakeholders to monitor customer behavior, identify revenue opportunities, and make informed business decisions.
+
+---
+
+# 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|----------|
+| Python | Data Cleaning & Exploratory Data Analysis |
+| Pandas | Data Manipulation |
+| NumPy | Numerical Operations |
+| SQL | Business Analysis |
+| Power BI | Dashboard Development |
+| Git & GitHub | Version Control |
+
+---
+
+# 📂 Dataset
 
 - **Dataset:** Retail Customer Shopping Behavior Dataset
-- **Records:** 3,900 Transactions
+- **Transactions:** 3,900
 - **Features:** 18 Columns
+- **Format:** CSV
+
+The dataset includes:
+
+- Customer Demographics
+- Product Category
+- Purchase Amount
+- Location
+- Season
+- Review Rating
+- Subscription Status
+- Shipping Type
+- Payment Method
+- Discount Applied
+- Promo Code Usage
+- Previous Purchases
+- Purchase Frequency
 
 ---
 
-## 🚧 Project Status
+# 📊 Dashboard Preview
 
-> ✅ Currently under development.
+<p align="center">
+<img src="images/dashboard.png" width="100%">
+</p>
 
-The repository will be updated with:
+The Power BI dashboard provides an executive overview of customer purchasing behavior, revenue trends, and product performance through interactive visualizations and slicers.
 
-- Python notebooks
-- SQL scripts
-- Power BI dashboard
-- Project report
+---
+
+# 📈 Dashboard Features
+
+- Executive KPI Cards
+- Revenue Analysis
+- Customer Segmentation
+- Product Category Performance
+- Age & Gender Analysis
+- Subscription Analysis
+- Shipping Preference Analysis
+- Payment Method Analysis
+- Interactive Filters
+
+---
+
+# 📝 Business Questions Answered
+
+- Which product categories generate the highest revenue?
+- Which customer segment contributes the most sales?
+- Do subscribers spend more than non-subscribers?
+- Which payment methods are most preferred?
+- Which shipping types are frequently selected?
+- Which seasons generate the highest revenue?
+- Which locations contribute the highest sales?
+- How do discounts and promo codes influence customer spending?
+
+---
+
+# 💡 Key Insights
+
+- Identified the highest revenue-generating product categories.
+- Analyzed customer purchasing behavior across different age groups and genders.
+- Evaluated the impact of subscription status on customer spending.
+- Compared payment methods and shipping preferences.
+- Discovered seasonal shopping trends to support inventory planning.
+- Built an executive dashboard for interactive business analysis.
+
+> **Note:** Update these insights with your actual findings after completing the analysis.
+
+---
+
+# 📈 Business Recommendations
+
+- Focus marketing campaigns on high-value customer segments.
+- Increase inventory for top-performing product categories.
+- Strengthen subscription and customer loyalty initiatives.
+- Optimize seasonal promotions using historical purchasing trends.
+- Personalize marketing strategies based on customer behavior.
+
+---
+
+# 📁 Repository Structure
+
+```
+Retail-Customer-Intelligence-Dashboard
+│
+├── data
+│   ├── raw
+│   └── processed
+│
+├── notebooks
+│
+├── sql
+│
+├── powerbi
+│
+├── report
+│
+├── images
+│
+├── README.md
+│
+└── LICENSE
+```
+
+---
+
+# 📷 Project Files
+
+📁 **Data**
+- Raw Dataset
+- Processed Dataset
+
+📁 **Python**
+- Data Cleaning
+- Exploratory Data Analysis
+
+📁 **SQL**
+- Business Queries
+- Analytical Queries
+
+📁 **Power BI**
+- Interactive Dashboard (.pbix)
+
+📁 **Report**
+- Business Problem Statement
+- Project Report
 - Presentation
-- Dashboard screenshots
-- Business insights
 
 ---
 
-⭐ If you like this project, consider giving it a star!
+# 🚀 Future Enhancements
+
+- Customer Lifetime Value (CLV) Analysis
+- RFM Customer Segmentation
+- Sales Forecasting
+- Customer Churn Prediction
+- Interactive Web Dashboard
+
+---
+
+# 👩‍💻 About Me
+
+**Diksha C Pujari**
+
+Aspiring Data Analyst
+
+📧 Email: your-email@example.com
+
+💼 LinkedIn: https://linkedin.com/in/your-profile
+
+💻 GitHub: https://github.com/your-username
+
+---
+
+<p align="center">
+
+⭐ If you found this project interesting, consider giving it a Star!
+
+</p>
