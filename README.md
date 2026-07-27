@@ -206,7 +206,7 @@ Aspiring Data Analyst
 
 💼 LinkedIn: [Diksha Pujari](https://www.linkedin.com/in/diksha-pujari-819b75366)
 
-💻 GitHub: [deekshajob05-hub](https://github.com/deekshajob05-hub)
+💻 GitHub: [Profile](https://github.com/deekshajob05-hub)
 ---
 
 <p align="center">
