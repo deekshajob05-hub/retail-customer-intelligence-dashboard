@@ -138,6 +138,7 @@ The Power BI dashboard provides an executive overview of customer purchasing beh
 
 # 📁 Repository Structure
 
+```text
 Retail-Customer-Intelligence-Dashboard
 │
 ├── README.md
@@ -150,6 +151,7 @@ Retail-Customer-Intelligence-Dashboard
 ├── powerbi
 ├── report
 └── images
+```
 
 ---
 
