@@ -79,7 +79,7 @@ The dataset includes:
 # 📊 Dashboard Preview
 
 <p align="center">
-<img src="images/dashboard.png" width="100%">
+  <img src="images/dashboard.png" alt="Dashboard Preview" width="100%">
 </p>
 
 The Power BI dashboard provides an executive overview of customer purchasing behavior, revenue trends, and product performance through interactive visualizations and slicers.
@@ -202,12 +202,11 @@ Retail-Customer-Intelligence-Dashboard
 
 Aspiring Data Analyst
 
-📧 Email: your-email@example.com
+📧 Email: deekshawork2026@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: [Diksha Pujari](https://www.linkedin.com/in/diksha-pujari-819b75366)
 
-💻 GitHub: https://github.com/your-username
-
+💻 GitHub: [deekshajob05-hub](https://github.com/deekshajob05-hub)
 ---
 
 <p align="center">
